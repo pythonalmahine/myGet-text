@@ -1,2 +1,2 @@
 # myGet-text
-My Get TEST
+print ("hellow world")
